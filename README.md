@@ -1,5 +1,5 @@
 # Simple-calcualtor
-This is a calculator making homework using Python
+# This is a calculator making homework using Python
 from tkinter import *
 from math import*
 root = Tk()
